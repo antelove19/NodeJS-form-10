@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-form-10",
+  "version": "1.0.0",
+  "description": "NodeJS Form input text",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js localhost 8080"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
